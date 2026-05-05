@@ -1,0 +1,6 @@
+this is a sliding window problem where previous elements remove and new element added to the window sum
+for i taken variable win_sum = upto k elements where k is an element like 3 or 4
+then i iterated the array from kth element because index starts from 0 
+NOTE : HERE ITERATIONS DONE 2 TIMES AND 1 ITERATION DONE AT OUTSIDE THE LOOP HERE ALL CONFUSE
+
+ATLAST I CALCULATED AVERAGE
